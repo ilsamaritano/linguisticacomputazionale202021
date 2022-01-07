@@ -1,0 +1,280 @@
+		--Progetto di Vincenzo Sammartino (matricola 599203)--
+
+Programma 1 - Punto n.1 --CALCOLO TOKEN E FRASI--
+Il file DiscorsiBiden.txt ha una lunghezza di 18215 tokens
+Il file DiscorsiTrump.txt ha una lunghezza di 18036 tokens
+
+Il file DiscorsiBiden.txt è formato da 18215 tokens, dunque risulta avere più token del file DiscorsiTrump.txt il quale contiene 18036 tokens.
+
+Il file DiscorsiBiden.txt è composto da 900 frasi
+Il file DiscorsiTrump.txt è composto da 1169 frasi
+
+Il file DiscorsiTrump.txt è formato da 1169 frasi, dunque ha un numero maggiore di frasi rispetto al file DiscorsiBiden.txt il quale contiene 900 frasi.
+
+Punto n.2	--LUNGHEZZA MEDIA DELLE FRASI--
+Il file DiscorsiBiden.txt ha una lunghezza media di frase di 20.238888888888887 tokens
+Il file DiscorsiTrump.txt ha una lunghezza media di frase di 15.428571428571429 tokens
+
+Nel file DiscorsiBiden.txt la lunghezza media di frase è 20 tokens, che risulta maggiore rispetto al file DiscorsiTrump.txt la quale lunghezza media di frase è 15 tokens
+
+	--LUNGHEZZA MEDIA DI PAROLA IN TERMINI DI CARATTERI--
+Il file DiscorsiBiden.txt ha una lunghezza media di parola di 3.7620093329673345 caratteri
+Il file DiscorsiTrump.txt ha una lunghezza media di parola di 3.6903415391439345 caratteri
+
+Nel file DiscorsiBiden.txt la lunghezza media di parola è 3.76 caratteri, che risulta maggiore rispetto al file DiscorsiTrump.txt la quale lunghezza media di parola è 3.69 caratteri
+
+Punto n.3 	--GRANDEZZA DEL VOCABOLARIO NEI PRIMI 5000 TOKEN--
+Il vocabolario del file DiscorsiBiden.txt è formato da 1248 parole tipo.
+Il vocabolario del file DiscorsiTrump.txt è formato da 1081 parole tipo.
+
+Il vocabolario del file DiscorsiBiden.txt è formato da 1248 parole tipo, dunque risulta essere più grande del vocabolario del file DiscorsiTrump.txt il quale contiene 1081 parole tipo.
+
+	--TYPE TOKEN RATIO NEI PRIMI 5000 TOKEN--
+L'indice di ricchezza lessicale (Type Token Ratio) nel file DiscorsiBiden.txt è pari a 0.2496
+L'indice di ricchezza lessicale (Type Token Ratio) nel file DiscorsiTrump.txt è pari a 0.2162
+
+La Type Token Ratio del file DiscorsiBiden.txt è pari a 0.25 che risulta maggiore, è dunque lessicalmente più ricco del file DiscorsiTrump.txt la quale TTR è pari a 0.22
+
+Punto n.4 	--DISTRIBUZIONE DELLE CLASSI DI FREQUENZA V1, V5 E V10--
+Stampo di seguito la distribuzione delle classi di frequenza V1, V5 e V10 all'aumentare del corpus per porzioni incrementali di 500 tokens del file DiscorsiBiden.txt
+Nei primi 500 tokens ci sono 163 token di classe V 1
+Nei primi 1000 tokens ci sono 251 token di classe V 1
+Nei primi 1500 tokens ci sono 302 token di classe V 1
+Nei primi 2000 tokens ci sono 379 token di classe V 1
+Nei primi 2500 tokens ci sono 444 token di classe V 1
+Nei primi 3000 tokens ci sono 508 token di classe V 1
+Nei primi 3500 tokens ci sono 539 token di classe V 1
+Nei primi 4000 tokens ci sono 578 token di classe V 1
+Nei primi 4500 tokens ci sono 668 token di classe V 1
+Nei primi 5000 tokens ci sono 732 token di classe V 1
+Nei primi 5500 tokens ci sono 793 token di classe V 1
+Nei primi 6000 tokens ci sono 837 token di classe V 1
+Nei primi 6500 tokens ci sono 848 token di classe V 1
+Nei primi 7000 tokens ci sono 869 token di classe V 1
+Nei primi 7500 tokens ci sono 912 token di classe V 1
+Nei primi 8000 tokens ci sono 943 token di classe V 1
+Nei primi 8500 tokens ci sono 963 token di classe V 1
+Nei primi 9000 tokens ci sono 1005 token di classe V 1
+Nei primi 9500 tokens ci sono 1045 token di classe V 1
+Nei primi 10000 tokens ci sono 1064 token di classe V 1
+Nei primi 10500 tokens ci sono 1106 token di classe V 1
+Nei primi 11000 tokens ci sono 1128 token di classe V 1
+Nei primi 11500 tokens ci sono 1157 token di classe V 1
+Nei primi 12000 tokens ci sono 1179 token di classe V 1
+Nei primi 12500 tokens ci sono 1193 token di classe V 1
+Nei primi 13000 tokens ci sono 1215 token di classe V 1
+Nei primi 13500 tokens ci sono 1249 token di classe V 1
+Nei primi 14000 tokens ci sono 1256 token di classe V 1
+Nei primi 14500 tokens ci sono 1270 token di classe V 1
+Nei primi 15000 tokens ci sono 1287 token di classe V 1
+Nei primi 15500 tokens ci sono 1300 token di classe V 1
+Nei primi 16000 tokens ci sono 1306 token di classe V 1
+Nei primi 16500 tokens ci sono 1310 token di classe V 1
+Nei primi 17000 tokens ci sono 1327 token di classe V 1
+Nei primi 17500 tokens ci sono 1342 token di classe V 1
+Nei primi 18000 tokens ci sono 1357 token di classe V 1
+
+Nei primi 500 tokens ci sono 6 token di classe V 5
+Nei primi 1000 tokens ci sono 8 token di classe V 5
+Nei primi 1500 tokens ci sono 12 token di classe V 5
+Nei primi 2000 tokens ci sono 10 token di classe V 5
+Nei primi 2500 tokens ci sono 13 token di classe V 5
+Nei primi 3000 tokens ci sono 18 token di classe V 5
+Nei primi 3500 tokens ci sono 20 token di classe V 5
+Nei primi 4000 tokens ci sono 23 token di classe V 5
+Nei primi 4500 tokens ci sono 23 token di classe V 5
+Nei primi 5000 tokens ci sono 26 token di classe V 5
+Nei primi 5500 tokens ci sono 26 token di classe V 5
+Nei primi 6000 tokens ci sono 33 token di classe V 5
+Nei primi 6500 tokens ci sono 28 token di classe V 5
+Nei primi 7000 tokens ci sono 27 token di classe V 5
+Nei primi 7500 tokens ci sono 31 token di classe V 5
+Nei primi 8000 tokens ci sono 36 token di classe V 5
+Nei primi 8500 tokens ci sono 37 token di classe V 5
+Nei primi 9000 tokens ci sono 39 token di classe V 5
+Nei primi 9500 tokens ci sono 39 token di classe V 5
+Nei primi 10000 tokens ci sono 46 token di classe V 5
+Nei primi 10500 tokens ci sono 52 token di classe V 5
+Nei primi 11000 tokens ci sono 49 token di classe V 5
+Nei primi 11500 tokens ci sono 49 token di classe V 5
+Nei primi 12000 tokens ci sono 49 token di classe V 5
+Nei primi 12500 tokens ci sono 60 token di classe V 5
+Nei primi 13000 tokens ci sono 60 token di classe V 5
+Nei primi 13500 tokens ci sono 61 token di classe V 5
+Nei primi 14000 tokens ci sono 59 token di classe V 5
+Nei primi 14500 tokens ci sono 61 token di classe V 5
+Nei primi 15000 tokens ci sono 63 token di classe V 5
+Nei primi 15500 tokens ci sono 69 token di classe V 5
+Nei primi 16000 tokens ci sono 76 token di classe V 5
+Nei primi 16500 tokens ci sono 74 token di classe V 5
+Nei primi 17000 tokens ci sono 74 token di classe V 5
+Nei primi 17500 tokens ci sono 75 token di classe V 5
+Nei primi 18000 tokens ci sono 78 token di classe V 5
+
+Nei primi 500 tokens ci sono 2 token di classe V 10
+Nei primi 1000 tokens ci sono 1 token di classe V 10
+Nei primi 1500 tokens ci sono 3 token di classe V 10
+Nei primi 2000 tokens ci sono 4 token di classe V 10
+Nei primi 2500 tokens ci sono 6 token di classe V 10
+Nei primi 3000 tokens ci sono 6 token di classe V 10
+Nei primi 3500 tokens ci sono 3 token di classe V 10
+Nei primi 4000 tokens ci sono 4 token di classe V 10
+Nei primi 4500 tokens ci sono 5 token di classe V 10
+Nei primi 5000 tokens ci sono 2 token di classe V 10
+Nei primi 5500 tokens ci sono 6 token di classe V 10
+Nei primi 6000 tokens ci sono 9 token di classe V 10
+Nei primi 6500 tokens ci sono 8 token di classe V 10
+Nei primi 7000 tokens ci sono 7 token di classe V 10
+Nei primi 7500 tokens ci sono 9 token di classe V 10
+Nei primi 8000 tokens ci sono 11 token di classe V 10
+Nei primi 8500 tokens ci sono 9 token di classe V 10
+Nei primi 9000 tokens ci sono 9 token di classe V 10
+Nei primi 9500 tokens ci sono 11 token di classe V 10
+Nei primi 10000 tokens ci sono 10 token di classe V 10
+Nei primi 10500 tokens ci sono 14 token di classe V 10
+Nei primi 11000 tokens ci sono 10 token di classe V 10
+Nei primi 11500 tokens ci sono 10 token di classe V 10
+Nei primi 12000 tokens ci sono 9 token di classe V 10
+Nei primi 12500 tokens ci sono 18 token di classe V 10
+Nei primi 13000 tokens ci sono 21 token di classe V 10
+Nei primi 13500 tokens ci sono 27 token di classe V 10
+Nei primi 14000 tokens ci sono 27 token di classe V 10
+Nei primi 14500 tokens ci sono 24 token di classe V 10
+Nei primi 15000 tokens ci sono 24 token di classe V 10
+Nei primi 15500 tokens ci sono 18 token di classe V 10
+Nei primi 16000 tokens ci sono 18 token di classe V 10
+Nei primi 16500 tokens ci sono 18 token di classe V 10
+Nei primi 17000 tokens ci sono 19 token di classe V 10
+Nei primi 17500 tokens ci sono 22 token di classe V 10
+Nei primi 18000 tokens ci sono 23 token di classe V 10
+
+Stampo di seguito la distribuzione delle classi di frequenza V1, V5 e V10 all'aumentare del corpus per porzioni incrementali di 500 tokens del file DiscorsiTrump.txt
+Nei primi 500 tokens ci sono 169 token di classe V 1
+Nei primi 1000 tokens ci sono 285 token di classe V 1
+Nei primi 1500 tokens ci sono 321 token di classe V 1
+Nei primi 2000 tokens ci sono 352 token di classe V 1
+Nei primi 2500 tokens ci sono 429 token di classe V 1
+Nei primi 3000 tokens ci sono 479 token di classe V 1
+Nei primi 3500 tokens ci sono 521 token di classe V 1
+Nei primi 4000 tokens ci sono 558 token di classe V 1
+Nei primi 4500 tokens ci sono 580 token di classe V 1
+Nei primi 5000 tokens ci sono 596 token di classe V 1
+Nei primi 5500 tokens ci sono 624 token di classe V 1
+Nei primi 6000 tokens ci sono 643 token di classe V 1
+Nei primi 6500 tokens ci sono 657 token di classe V 1
+Nei primi 7000 tokens ci sono 678 token di classe V 1
+Nei primi 7500 tokens ci sono 742 token di classe V 1
+Nei primi 8000 tokens ci sono 796 token di classe V 1
+Nei primi 8500 tokens ci sono 817 token di classe V 1
+Nei primi 9000 tokens ci sono 852 token di classe V 1
+Nei primi 9500 tokens ci sono 867 token di classe V 1
+Nei primi 10000 tokens ci sono 881 token di classe V 1
+Nei primi 10500 tokens ci sono 891 token di classe V 1
+Nei primi 11000 tokens ci sono 893 token di classe V 1
+Nei primi 11500 tokens ci sono 898 token di classe V 1
+Nei primi 12000 tokens ci sono 917 token di classe V 1
+Nei primi 12500 tokens ci sono 950 token di classe V 1
+Nei primi 13000 tokens ci sono 953 token di classe V 1
+Nei primi 13500 tokens ci sono 987 token di classe V 1
+Nei primi 14000 tokens ci sono 1008 token di classe V 1
+Nei primi 14500 tokens ci sono 1033 token di classe V 1
+Nei primi 15000 tokens ci sono 1047 token di classe V 1
+Nei primi 15500 tokens ci sono 1057 token di classe V 1
+Nei primi 16000 tokens ci sono 1053 token di classe V 1
+Nei primi 16500 tokens ci sono 1074 token di classe V 1
+Nei primi 17000 tokens ci sono 1094 token di classe V 1
+Nei primi 17500 tokens ci sono 1110 token di classe V 1
+Nei primi 18000 tokens ci sono 1128 token di classe V 1
+
+Nei primi 500 tokens ci sono 4 token di classe V 5
+Nei primi 1000 tokens ci sono 5 token di classe V 5
+Nei primi 1500 tokens ci sono 17 token di classe V 5
+Nei primi 2000 tokens ci sono 27 token di classe V 5
+Nei primi 2500 tokens ci sono 22 token di classe V 5
+Nei primi 3000 tokens ci sono 24 token di classe V 5
+Nei primi 3500 tokens ci sono 29 token di classe V 5
+Nei primi 4000 tokens ci sono 24 token di classe V 5
+Nei primi 4500 tokens ci sono 28 token di classe V 5
+Nei primi 5000 tokens ci sono 29 token di classe V 5
+Nei primi 5500 tokens ci sono 36 token di classe V 5
+Nei primi 6000 tokens ci sono 35 token di classe V 5
+Nei primi 6500 tokens ci sono 37 token di classe V 5
+Nei primi 7000 tokens ci sono 50 token di classe V 5
+Nei primi 7500 tokens ci sono 57 token di classe V 5
+Nei primi 8000 tokens ci sono 58 token di classe V 5
+Nei primi 8500 tokens ci sono 45 token di classe V 5
+Nei primi 9000 tokens ci sono 41 token di classe V 5
+Nei primi 9500 tokens ci sono 48 token di classe V 5
+Nei primi 10000 tokens ci sono 54 token di classe V 5
+Nei primi 10500 tokens ci sono 59 token di classe V 5
+Nei primi 11000 tokens ci sono 63 token di classe V 5
+Nei primi 11500 tokens ci sono 64 token di classe V 5
+Nei primi 12000 tokens ci sono 66 token di classe V 5
+Nei primi 12500 tokens ci sono 63 token di classe V 5
+Nei primi 13000 tokens ci sono 69 token di classe V 5
+Nei primi 13500 tokens ci sono 69 token di classe V 5
+Nei primi 14000 tokens ci sono 76 token di classe V 5
+Nei primi 14500 tokens ci sono 77 token di classe V 5
+Nei primi 15000 tokens ci sono 78 token di classe V 5
+Nei primi 15500 tokens ci sono 77 token di classe V 5
+Nei primi 16000 tokens ci sono 80 token di classe V 5
+Nei primi 16500 tokens ci sono 80 token di classe V 5
+Nei primi 17000 tokens ci sono 84 token di classe V 5
+Nei primi 17500 tokens ci sono 87 token di classe V 5
+Nei primi 18000 tokens ci sono 89 token di classe V 5
+
+Nei primi 500 tokens ci sono 3 token di classe V 10
+Nei primi 1000 tokens ci sono 2 token di classe V 10
+Nei primi 1500 tokens ci sono 0 token di classe V 10
+Nei primi 2000 tokens ci sono 1 token di classe V 10
+Nei primi 2500 tokens ci sono 3 token di classe V 10
+Nei primi 3000 tokens ci sono 2 token di classe V 10
+Nei primi 3500 tokens ci sono 14 token di classe V 10
+Nei primi 4000 tokens ci sono 15 token di classe V 10
+Nei primi 4500 tokens ci sono 13 token di classe V 10
+Nei primi 5000 tokens ci sono 10 token di classe V 10
+Nei primi 5500 tokens ci sono 8 token di classe V 10
+Nei primi 6000 tokens ci sono 7 token di classe V 10
+Nei primi 6500 tokens ci sono 6 token di classe V 10
+Nei primi 7000 tokens ci sono 8 token di classe V 10
+Nei primi 7500 tokens ci sono 8 token di classe V 10
+Nei primi 8000 tokens ci sono 8 token di classe V 10
+Nei primi 8500 tokens ci sono 9 token di classe V 10
+Nei primi 9000 tokens ci sono 8 token di classe V 10
+Nei primi 9500 tokens ci sono 11 token di classe V 10
+Nei primi 10000 tokens ci sono 10 token di classe V 10
+Nei primi 10500 tokens ci sono 13 token di classe V 10
+Nei primi 11000 tokens ci sono 12 token di classe V 10
+Nei primi 11500 tokens ci sono 15 token di classe V 10
+Nei primi 12000 tokens ci sono 16 token di classe V 10
+Nei primi 12500 tokens ci sono 15 token di classe V 10
+Nei primi 13000 tokens ci sono 17 token di classe V 10
+Nei primi 13500 tokens ci sono 20 token di classe V 10
+Nei primi 14000 tokens ci sono 18 token di classe V 10
+Nei primi 14500 tokens ci sono 16 token di classe V 10
+Nei primi 15000 tokens ci sono 13 token di classe V 10
+Nei primi 15500 tokens ci sono 18 token di classe V 10
+Nei primi 16000 tokens ci sono 22 token di classe V 10
+Nei primi 16500 tokens ci sono 25 token di classe V 10
+Nei primi 17000 tokens ci sono 24 token di classe V 10
+Nei primi 17500 tokens ci sono 28 token di classe V 10
+Nei primi 18000 tokens ci sono 34 token di classe V 10
+
+
+Punto n.5 	--MEDIA DEI SOSTANTIVI PER FRASE--
+Nel file DiscorsiBiden.txt in media ci sono 4.404444444444445 sostantivi per frase
+Nel file DiscorsiTrump.txt in media ci sono 3.251497005988024 sostantivi per frase
+
+Il numero medio di sostantivi per frase del file DiscorsiBiden.txt è pari a 4.4 che risulta maggiore del numero medio di sostantivi per frase del file DiscorsiTrump.txt che risulta pari a 3.25
+
+	--MEDIA DEI VERBI PER FRASE--
+Nel file DiscorsiBiden.txt in media ci sono 3.5411111111111113 verbi per frase
+Nel file DiscorsiTrump.txt in media ci sono 2.7040205303678357 verbi per frase
+
+Il numero medio di verbi per frase del file DiscorsiBiden.txt è pari a 3.54 che risulta maggiore del numero medio di verbi per frase del file DiscorsiTrump.txt che risulta pari a 2.7
+
+Punto n.6 	--DENSITA' LESSICALE--
+La densità lessicale del file DiscorsiBiden.txt è pari a 0.5731956212505411
+La densità lessicale del file DiscorsiTrump.txt è pari a 0.5923373585382816
+
+La densità lessicale del file DiscorsiTrump.txt è pari a 0.59 che risulta maggiore della densità lessicale del file DiscorsiBiden.txt che risulta pari a 0.57

@@ -1,0 +1,418 @@
+		--Progetto di Vincenzo Sammartino (matricola 599203)--
+
+Programma 2 - Punto n.1 	 ESTRAZIONE DELLE 10 POS PIU' FREQUENTI
+Elenco di seguito le 10 Part of Speech più frequenti del file DiscorsiBiden.txt
+La 1 ° PoS più frequente è: ","	 con frequenza 1142
+La 2 ° PoS più frequente è: "."	 con frequenza 856
+La 3 ° PoS più frequente è: "the"	 con frequenza 674
+La 4 ° PoS più frequente è: "to"	 con frequenza 600
+La 5 ° PoS più frequente è: "and"	 con frequenza 414
+La 6 ° PoS più frequente è: "of"	 con frequenza 352
+La 7 ° PoS più frequente è: "I"	 con frequenza 302
+La 8 ° PoS più frequente è: "a"	 con frequenza 296
+La 9 ° PoS più frequente è: "’"	 con frequenza 260
+La 10 ° PoS più frequente è: "in"	 con frequenza 253
+
+Elenco di seguito le 10 Part of Speech più frequenti del file DiscorsiTrump.txt
+La 1 ° PoS più frequente è: "."	 con frequenza 1094
+La 2 ° PoS più frequente è: ","	 con frequenza 1037
+La 3 ° PoS più frequente è: "the"	 con frequenza 524
+La 4 ° PoS più frequente è: "to"	 con frequenza 380
+La 5 ° PoS più frequente è: "a"	 con frequenza 321
+La 6 ° PoS più frequente è: "and"	 con frequenza 310
+La 7 ° PoS più frequente è: "of"	 con frequenza 298
+La 8 ° PoS più frequente è: "’"	 con frequenza 266
+La 9 ° PoS più frequente è: "I"	 con frequenza 247
+La 10 ° PoS più frequente è: "it"	 con frequenza 221
+
+	 ESTRAZIONE DEI 20 SOSTANTIVI PIU' FREQUENTI
+Elenco di seguito i venti sostantivi più frequenti del file DiscorsiBiden.txt
+Il 1 ° sostantivo più frequente è: "’"	 con frequenza 104
+Il 2 ° sostantivo più frequente è: "people"	 con frequenza 73
+Il 3 ° sostantivo più frequente è: "t"	 con frequenza 63
+Il 4 ° sostantivo più frequente è: "s"	 con frequenza 54
+Il 5 ° sostantivo più frequente è: "America"	 con frequenza 43
+Il 6 ° sostantivo più frequente è: "president"	 con frequenza 40
+Il 7 ° sostantivo più frequente è: "Trump"	 con frequenza 33
+Il 8 ° sostantivo più frequente è: "time"	 con frequenza 31
+Il 9 ° sostantivo più frequente è: "health"	 con frequenza 29
+Il 10 ° sostantivo più frequente è: "States"	 con frequenza 29
+Il 11 ° sostantivo più frequente è: "jobs"	 con frequenza 28
+Il 12 ° sostantivo più frequente è: "United"	 con frequenza 26
+Il 13 ° sostantivo più frequente è: "country"	 con frequenza 25
+Il 14 ° sostantivo più frequente è: "crisis"	 con frequenza 24
+Il 15 ° sostantivo più frequente è: "world"	 con frequenza 24
+Il 16 ° sostantivo più frequente è: "way"	 con frequenza 24
+Il 17 ° sostantivo più frequente è: "team"	 con frequenza 23
+Il 18 ° sostantivo più frequente è: "workers"	 con frequenza 23
+Il 19 ° sostantivo più frequente è: "lot"	 con frequenza 23
+Il 20 ° sostantivo più frequente è: "thing"	 con frequenza 22
+
+Elenco di seguito i venti sostantivi più frequenti del file DiscorsiTrump.txt
+Il 1 ° sostantivo più frequente è: "’"	 con frequenza 89
+Il 2 ° sostantivo più frequente è: "t"	 con frequenza 80
+Il 3 ° sostantivo più frequente è: "people"	 con frequenza 66
+Il 4 ° sostantivo più frequente è: "Dan"	 con frequenza 39
+Il 5 ° sostantivo più frequente è: "s"	 con frequenza 38
+Il 6 ° sostantivo più frequente è: "Thank"	 con frequenza 38
+Il 7 ° sostantivo più frequente è: "years"	 con frequenza 38
+Il 8 ° sostantivo più frequente è: "lot"	 con frequenza 36
+Il 9 ° sostantivo più frequente è: "%"	 con frequenza 33
+Il 10 ° sostantivo più frequente è: "patients"	 con frequenza 32
+Il 11 ° sostantivo più frequente è: "“"	 con frequenza 31
+Il 12 ° sostantivo più frequente è: "country"	 con frequenza 29
+Il 13 ° sostantivo più frequente è: "way"	 con frequenza 28
+Il 14 ° sostantivo più frequente è: "drugs"	 con frequenza 28
+Il 15 ° sostantivo più frequente è: "prices"	 con frequenza 28
+Il 16 ° sostantivo più frequente è: "drug"	 con frequenza 26
+Il 17 ° sostantivo più frequente è: "plan"	 con frequenza 26
+Il 18 ° sostantivo più frequente è: "thing"	 con frequenza 25
+Il 19 ° sostantivo più frequente è: "price"	 con frequenza 24
+Il 20 ° sostantivo più frequente è: "time"	 con frequenza 23
+
+	 ESTRAZIONE DEI 20 VERBI PIU' FREQUENTI
+Elenco di seguito i venti verbi più frequenti del file DiscorsiBiden.txt
+Il 1 ° verbo più frequente è: "’"	 con frequenza 260
+Il 2 ° verbo più frequente è: "be"	 con frequenza 123
+Il 3 ° verbo più frequente è: "is"	 con frequenza 122
+Il 4 ° verbo più frequente è: "’"	 con frequenza 120
+Il 5 ° verbo più frequente è: "going"	 con frequenza 117
+Il 6 ° verbo più frequente è: "have"	 con frequenza 84
+Il 7 ° verbo più frequente è: "are"	 con frequenza 74
+Il 8 ° verbo più frequente è: "was"	 con frequenza 58
+Il 9 ° verbo più frequente è: "do"	 con frequenza 57
+Il 10 ° verbo più frequente è: "get"	 con frequenza 51
+Il 11 ° verbo più frequente è: "s"	 con frequenza 37
+Il 12 ° verbo più frequente è: "’"	 con frequenza 33
+Il 13 ° verbo più frequente è: "know"	 con frequenza 32
+Il 14 ° verbo più frequente è: "s"	 con frequenza 32
+Il 15 ° verbo più frequente è: "think"	 con frequenza 30
+Il 16 ° verbo più frequente è: "re"	 con frequenza 28
+Il 17 ° verbo più frequente è: "need"	 con frequenza 26
+Il 18 ° verbo più frequente è: "been"	 con frequenza 25
+Il 19 ° verbo più frequente è: "has"	 con frequenza 24
+Il 20 ° verbo più frequente è: "have"	 con frequenza 23
+
+Elenco di seguito i venti verbi più frequenti del file DiscorsiTrump.txt
+Il 1 ° verbo più frequente è: "’"	 con frequenza 266
+Il 2 ° verbo più frequente è: "’"	 con frequenza 138
+Il 3 ° verbo più frequente è: "is"	 con frequenza 126
+Il 4 ° verbo più frequente è: "have"	 con frequenza 90
+Il 5 ° verbo più frequente è: "be"	 con frequenza 87
+Il 6 ° verbo più frequente è: "was"	 con frequenza 82
+Il 7 ° verbo più frequente è: "are"	 con frequenza 67
+Il 8 ° verbo più frequente è: "been"	 con frequenza 57
+Il 9 ° verbo più frequente è: "were"	 con frequenza 57
+Il 10 ° verbo più frequente è: "going"	 con frequenza 55
+Il 11 ° verbo più frequente è: "got"	 con frequenza 45
+Il 12 ° verbo più frequente è: "had"	 con frequenza 44
+Il 13 ° verbo più frequente è: "s"	 con frequenza 39
+Il 14 ° verbo più frequente è: "said"	 con frequenza 38
+Il 15 ° verbo più frequente è: "has"	 con frequenza 36
+Il 16 ° verbo più frequente è: "s"	 con frequenza 36
+Il 17 ° verbo più frequente è: "know"	 con frequenza 35
+Il 18 ° verbo più frequente è: "re"	 con frequenza 35
+Il 19 ° verbo più frequente è: "do"	 con frequenza 33
+Il 20 ° verbo più frequente è: "done"	 con frequenza 32
+
+	 ESTRAZIONE DEI 20 BIGRAMMI SOSTANTIVO-VERBO PIU' FREQUENTI
+Elenco di seguito i venti bigrammi Sostantivo-Verbo più frequenti del file DiscorsiBiden.txt
+La 1 ° coppia più frequente è: "’ s"	 con frequenza 57
+La 2 ° coppia più frequente è: "t have"	 con frequenza 8
+La 3 ° coppia più frequente è: "t do"	 con frequenza 6
+La 4 ° coppia più frequente è: "t be"	 con frequenza 5
+La 5 ° coppia più frequente è: "Trump is"	 con frequenza 4
+La 6 ° coppia più frequente è: "s going"	 con frequenza 4
+La 7 ° coppia più frequente è: "t want"	 con frequenza 4
+La 8 ° coppia più frequente è: "ve said"	 con frequenza 3
+La 9 ° coppia più frequente è: "people aren"	 con frequenza 3
+La 10 ° coppia più frequente è: "America is"	 con frequenza 3
+La 11 ° coppia più frequente è: "t going"	 con frequenza 3
+La 12 ° coppia più frequente è: "point is"	 con frequenza 3
+La 13 ° coppia più frequente è: "healthcare is"	 con frequenza 2
+La 14 ° coppia più frequente è: "vaccine is"	 con frequenza 2
+La 15 ° coppia più frequente è: "Congress provides"	 con frequenza 2
+La 16 ° coppia più frequente è: "children ’"	 con frequenza 2
+La 17 ° coppia più frequente è: "ve lost"	 con frequenza 2
+La 18 ° coppia più frequente è: "workers are"	 con frequenza 2
+La 19 ° coppia più frequente è: "consumers switching"	 con frequenza 2
+La 20 ° coppia più frequente è: "t fulfilled"	 con frequenza 2
+
+Elenco di seguito i venti bigrammi Sostantivo-Verbo più frequenti del file DiscorsiTrump.txt
+La 1 ° coppia più frequente è: "’ s"	 con frequenza 52
+La 2 ° coppia più frequente è: "t know"	 con frequenza 8
+La 3 ° coppia più frequente è: "t have"	 con frequenza 7
+La 4 ° coppia più frequente è: "election was"	 con frequenza 6
+La 5 ° coppia più frequente è: "Nobody ’"	 con frequenza 5
+La 6 ° coppia più frequente è: "t want"	 con frequenza 5
+La 7 ° coppia più frequente è: "China is"	 con frequenza 4
+La 8 ° coppia più frequente è: "t give"	 con frequenza 3
+La 9 ° coppia più frequente è: "Dan has"	 con frequenza 3
+La 10 ° coppia più frequente è: "s going"	 con frequenza 3
+La 11 ° coppia più frequente è: "nobody knows"	 con frequenza 3
+La 12 ° coppia più frequente è: "administration is"	 con frequenza 3
+La 13 ° coppia più frequente è: "Americans have"	 con frequenza 3
+La 14 ° coppia più frequente è: "price is"	 con frequenza 3
+La 15 ° coppia più frequente è: "prices are"	 con frequenza 3
+La 16 ° coppia più frequente è: "people have"	 con frequenza 3
+La 17 ° coppia più frequente è: "ballot is"	 con frequenza 3
+La 18 ° coppia più frequente è: "people were"	 con frequenza 3
+La 19 ° coppia più frequente è: "t do"	 con frequenza 3
+La 20 ° coppia più frequente è: "thing called"	 con frequenza 3
+
+	 ESTRAZIONE DEI 20 BIGRAMMI AGGETTIVO-SOSTANTIVO PIU' FREQUENTI
+Elenco di seguito i venti bigrammi Aggettivo-Sostantivo più frequenti del file DiscorsiBiden.txt
+La 1 ° coppia più frequente è: "’ t"	 con frequenza 48
+La 2 ° coppia più frequente è: "’ s"	 con frequenza 16
+La 3 ° coppia più frequente è: "American people"	 con frequenza 9
+La 4 ° coppia più frequente è: "public health"	 con frequenza 8
+La 5 ° coppia più frequente è: "federal government"	 con frequenza 8
+La 6 ° coppia più frequente è: "long time"	 con frequenza 6
+La 7 ° coppia più frequente è: "clean energy"	 con frequenza 5
+La 8 ° coppia più frequente è: "American workers"	 con frequenza 5
+La 9 ° coppia più frequente è: "middle class"	 con frequenza 5
+La 10 ° coppia più frequente è: "first responders"	 con frequenza 4
+La 11 ° coppia più frequente è: "small businesses"	 con frequenza 4
+La 12 ° coppia più frequente è: "small business"	 con frequenza 4
+La 13 ° coppia più frequente è: "profound increase"	 con frequenza 4
+La 14 ° coppia più frequente è: "next year"	 con frequenza 3
+La 15 ° coppia più frequente è: "vaccine distribution"	 con frequenza 3
+La 16 ° coppia più frequente è: "public servant"	 con frequenza 3
+La 17 ° coppia più frequente è: "mental health"	 con frequenza 3
+La 18 ° coppia più frequente è: "m grateful"	 con frequenza 3
+La 19 ° coppia più frequente è: "re facing"	 con frequenza 3
+La 20 ° coppia più frequente è: "electric vehicles"	 con frequenza 3
+
+Elenco di seguito i venti bigrammi Aggettivo-Sostantivo più frequenti del file DiscorsiTrump.txt
+La 1 ° coppia più frequente è: "’ t"	 con frequenza 74
+La 2 ° coppia più frequente è: "American patients"	 con frequenza 8
+La 3 ° coppia più frequente è: "big pharma"	 con frequenza 8
+La 4 ° coppia più frequente è: "pre-existing conditions"	 con frequenza 8
+La 5 ° coppia più frequente è: "long time"	 con frequenza 7
+La 6 ° coppia più frequente è: "big deal"	 con frequenza 7
+La 7 ° coppia più frequente è: "’ s"	 con frequenza 6
+La 8 ° coppia più frequente è: "little bit"	 con frequenza 6
+La 9 ° coppia più frequente è: "American people"	 con frequenza 6
+La 10 ° coppia più frequente è: "generic drugs"	 con frequenza 6
+La 11 ° coppia più frequente è: "big thing"	 con frequenza 6
+La 12 ° coppia più frequente è: "fantastic job"	 con frequenza 5
+La 13 ° coppia più frequente è: "other countries"	 con frequenza 5
+La 14 ° coppia più frequente è: "lowest price"	 con frequenza 5
+La 15 ° coppia più frequente è: "individual mandate"	 con frequenza 5
+La 16 ° coppia più frequente è: "favored nations"	 con frequenza 5
+La 17 ° coppia più frequente è: "special interests"	 con frequenza 4
+La 18 ° coppia più frequente è: "more votes"	 con frequenza 4
+La 19 ° coppia più frequente è: "greatest Mayor"	 con frequenza 4
+La 20 ° coppia più frequente è: "more choice"	 con frequenza 4
+
+Punto n.2 	 ESTRAZIONE DEI 20 BIGRAMMI CON PROBABILITA' CONGIUNTA MAGGIORE
+Di seguito elenco i primi 20 bigrammi con probabilità congiunta maggiore del file DiscorsiBiden.txt
+Il 1 ° bigramma "’ s" con probabilità congiunta pari a 0.013944551194070821
+Il 2 ° bigramma ", and" con probabilità congiunta pari a 0.006807576173483393
+Il 3 ° bigramma "going to" con probabilità congiunta pari a 0.005929179247872633
+Il 4 ° bigramma ". And" con probabilità congiunta pari a 0.0057644798243206155
+Il 5 ° bigramma "’ re" con probabilità congiunta pari a 0.005709580016469942
+Il 6 ° bigramma "’ t" con probabilità congiunta pari a 0.005160581937963217
+Il 7 ° bigramma "I ’" con probabilità congiunta pari a 0.005105682130112545
+Il 8 ° bigramma ". We" con probabilità congiunta pari a 0.004501784243755147
+Il 9 ° bigramma ", I" con probabilità congiunta pari a 0.004227285204501784
+Il 10 ° bigramma "of the" con probabilità congiunta pari a 0.004172385396651112
+Il 11 ° bigramma ". I" con probabilità congiunta pari a 0.0038429865495470767
+Il 12 ° bigramma "in the" con probabilità congiunta pari a 0.0035135877024430415
+Il 13 ° bigramma "’ m" con probabilità congiunta pari a 0.0032939884710403516
+Il 14 ° bigramma ". It" con probabilità congiunta pari a 0.003293988471040351
+Il 15 ° bigramma "to be" con probabilità congiunta pari a 0.0031841888553390063
+Il 16 ° bigramma ", the" con probabilità congiunta pari a 0.0029645896239363164
+Il 17 ° bigramma "It ’" con probabilità congiunta pari a 0.0025802909689816083
+Il 18 ° bigramma "’ ll" con probabilità congiunta pari a 0.0025802909689816083
+Il 19 ° bigramma "we ’" con probabilità congiunta pari a 0.002525391161130936
+Il 20 ° bigramma ", but" con probabilità congiunta pari a 0.002415591545429591
+
+Di seguito elenco i primi 20 bigrammi con probabilità congiunta maggiore del file DiscorsiTrump.txt
+Il 1 ° bigramma "’ s" con probabilità congiunta pari a 0.01336216455976935
+Il 2 ° bigramma "’ re" con probabilità congiunta pari a 0.007263251275227324
+Il 3 ° bigramma "’ t" con probabilità congiunta pari a 0.006431581281880683
+Il 4 ° bigramma ". We" con probabilità congiunta pari a 0.00499001996007984
+Il 5 ° bigramma ". And" con probabilità congiunta pari a 0.004823685961410512
+Il 6 ° bigramma ", and" con probabilità congiunta pari a 0.004657351962741184
+Il 7 ° bigramma "we ’" con probabilità congiunta pari a 0.004324683965402528
+Il 8 ° bigramma ", but" con probabilità congiunta pari a 0.00421379463295631
+Il 9 ° bigramma ". I" con probabilità congiunta pari a 0.00421379463295631
+Il 10 ° bigramma ". They" con probabilità congiunta pari a 0.0038811266356176535
+Il 11 ° bigramma ", we" con probabilità congiunta pari a 0.0034375693058327785
+Il 12 ° bigramma ". It" con probabilità congiunta pari a 0.003271235307163451
+Il 13 ° bigramma "I ’" con probabilità congiunta pari a 0.0030494566422710136
+Il 14 ° bigramma "’ ve" con probabilità congiunta pari a 0.0029940119760479044
+Il 15 ° bigramma ", I" con probabilità congiunta pari a 0.002883122643601685
+Il 16 ° bigramma "of the" con probabilità congiunta pari a 0.0027722333111554667
+Il 17 ° bigramma ", “" con probabilità congiunta pari a 0.0027167886449323574
+Il 18 ° bigramma ". You" con probabilità congiunta pari a 0.0026058993124861386
+Il 19 ° bigramma "going to" con probabilità congiunta pari a 0.0026058993124861386
+Il 20 ° bigramma ". That" con probabilità congiunta pari a 0.00249500998003992
+
+ 	 ESTRAZIONE DEI 20 BIGRAMMI CON PROBABILITA' CONDIZIONATA MAGGIORE
+Di seguito elenco i primi 20 bigrammi con probabilità condizionata maggiore del file DiscorsiBiden.txt
+Il 1 ° bigramma "North Carolina" con probabilità condizionata pari a 1.0
+Il 2 ° bigramma "don ’" con probabilità condizionata pari a 1.0
+Il 3 ° bigramma "Care Act" con probabilità condizionata pari a 1.0
+Il 4 ° bigramma "Do you" con probabilità condizionata pari a 1.0
+Il 5 ° bigramma "frankly ," con probabilità condizionata pari a 1.0
+Il 6 ° bigramma "able to" con probabilità condizionata pari a 1.0
+Il 7 ° bigramma "hospitals ," con probabilità condizionata pari a 1.0
+Il 8 ° bigramma "aren ’" con probabilità condizionata pari a 1.0
+Il 9 ° bigramma "Don ’" con probabilità condizionata pari a 1.0
+Il 10 ° bigramma "responders ," con probabilità condizionata pari a 1.0
+Il 11 ° bigramma "Today ," con probabilità condizionata pari a 1.0
+Il 12 ° bigramma "Social Security" con probabilità condizionata pari a 1.0
+Il 13 ° bigramma "doesn ’" con probabilità condizionata pari a 1.0
+Il 14 ° bigramma "millions of" con probabilità condizionata pari a 1.0
+Il 15 ° bigramma "didn ’" con probabilità condizionata pari a 1.0
+Il 16 ° bigramma "Karen ," con probabilità condizionata pari a 1.0
+Il 17 ° bigramma "Donald Trump" con probabilità condizionata pari a 1.0
+Il 18 ° bigramma "grew up" con probabilità condizionata pari a 1.0
+Il 19 ° bigramma "White House" con probabilità condizionata pari a 1.0
+Il 20 ° bigramma "wouldn ’" con probabilità condizionata pari a 1.0
+
+Di seguito elenco i primi 20 bigrammi con probabilità condizionata maggiore del file DiscorsiTrump.txt
+Il 1 ° bigramma "North Carolina" con probabilità condizionata pari a 1.0
+Il 2 ° bigramma "access to" con probabilità condizionata pari a 1.0
+Il 3 ° bigramma "talking about" con probabilità condizionata pari a 1.0
+Il 4 ° bigramma "couldn ’" con probabilità condizionata pari a 1.0
+Il 5 ° bigramma "don ’" con probabilità condizionata pari a 1.0
+Il 6 ° bigramma "New York" con probabilità condizionata pari a 1.0
+Il 7 ° bigramma "Puerto Rico" con probabilità condizionata pari a 1.0
+Il 8 ° bigramma "able to" con probabilità condizionata pari a 1.0
+Il 9 ° bigramma "Hall of" con probabilità condizionata pari a 1.0
+Il 10 ° bigramma "Well ," con probabilità condizionata pari a 1.0
+Il 11 ° bigramma "pre-existing conditions" con probabilità condizionata pari a 1.0
+Il 12 ° bigramma "Don ’" con probabilità condizionata pari a 1.0
+Il 13 ° bigramma "Social Security" con probabilità condizionata pari a 1.0
+Il 14 ° bigramma "Accountability ." con probabilità condizionata pari a 1.0
+Il 15 ° bigramma "favored nations" con probabilità condizionata pari a 1.0
+Il 16 ° bigramma "doesn ’" con probabilità condizionata pari a 1.0
+Il 17 ° bigramma "thousands of" con probabilità condizionata pari a 1.0
+Il 18 ° bigramma "didn ’" con probabilità condizionata pari a 1.0
+Il 19 ° bigramma "couple of" con probabilità condizionata pari a 1.0
+Il 20 ° bigramma "Right to" con probabilità condizionata pari a 1.0
+
+ 	 ESTRAZIONE DEI 20 BIGRAMMI CON FORZA ASSOCIATIVA (LMI) MAGGIORE
+Di seguito elenco i primi 20 bigrammi con forza associativa maggiore del file DiscorsiBiden.txt
+Il 1 ° bigramma "’ s" con LMI pari a 1241.6527806984998
+Il 2 ° bigramma "going to" con LMI pari a 519.3226944051474
+Il 3 ° bigramma "’ re" con LMI pari a 508.39326453796843
+Il 4 ° bigramma "’ t" con LMI pari a 459.509296793933
+Il 5 ° bigramma ". And" con LMI pari a 452.071089065393
+Il 6 ° bigramma ". We" con LMI pari a 360.29856684301285
+Il 7 ° bigramma "I ’" con LMI pari a 296.591028695344
+Il 8 ° bigramma "’ m" con LMI pari a 293.3038064642125
+Il 9 ° bigramma ", and" con LMI pari a 279.7690222272016
+Il 10 ° bigramma ". It" con LMI pari a 260.45898362025594
+Il 11 ° bigramma "’ ll" con LMI pari a 229.7546483969665
+Il 12 ° bigramma "United States" con LMI pari a 229.73413126638147
+Il 13 ° bigramma "to be" con LMI pari a 222.69025608751053
+Il 14 ° bigramma "It ’" con LMI pari a 209.88816802131942
+Il 15 ° bigramma "of the" con LMI pari a 193.39951710734763
+Il 16 ° bigramma "re going" con LMI pari a 192.76292445730357
+Il 17 ° bigramma "’ ve" con LMI pari a 190.64747420173816
+Il 18 ° bigramma "in the" con LMI pari a 177.48742520025445
+Il 19 ° bigramma ", but" con LMI pari a 171.6147490739863
+Il 20 ° bigramma "Donald Trump" con LMI pari a 163.1767776008365
+
+Di seguito elenco i primi 20 bigrammi con forza associativa maggiore del file DiscorsiTrump.txt
+Il 1 ° bigramma "’ s" con LMI pari a 1166.2914900763085
+Il 2 ° bigramma "’ re" con LMI pari a 633.9592746887818
+Il 3 ° bigramma "’ t" con LMI pari a 561.3685180450282
+Il 4 ° bigramma ". We" con LMI pari a 354.162152338876
+Il 5 ° bigramma ". And" con LMI pari a 339.40229172661066
+Il 6 ° bigramma ", but" con LMI pari a 311.71647673154644
+Il 7 ° bigramma "we ’" con LMI pari a 270.39281196413424
+Il 8 ° bigramma ". They" con LMI pari a 269.53847857317976
+Il 9 ° bigramma "’ ve" con LMI pari a 261.3267239175131
+Il 10 ° bigramma "Thank you" con LMI pari a 257.80419348552783
+Il 11 ° bigramma "going to" con LMI pari a 251.0723702495989
+Il 12 ° bigramma ". It" con LMI pari a 227.725169214193
+Il 13 ° bigramma "’ ll" con LMI pari a 203.25411860251018
+Il 14 ° bigramma "a lot" con LMI pari a 194.8098050089903
+Il 15 ° bigramma "That ’" con LMI pari a 188.02617526835243
+Il 16 ° bigramma ", and" con LMI pari a 187.8731091996207
+Il 17 ° bigramma ", “" con LMI pari a 186.41384199645424
+Il 18 ° bigramma ". I" con LMI pari a 178.0493840814943
+Il 19 ° bigramma ". You" con LMI pari a 175.7707235345664
+Il 20 ° bigramma ". That" con LMI pari a 170.1072164705027
+
+Punto n.3 	 ESTRAZIONE DELLA FRASE CON PROBABILITÀ MAGGIORE SECONDO IL MODELLO DI MARKOV DI ORDINE 1 (USANDO LO ADD-ONE SMOOTHING)
+Di seguito elenco la frase con maggiore probabilità secondo il modello Markoviano di ordine 1 del file  DiscorsiBiden.txt
+La frase: "More than 285,000 dead Americans because of COVID-19 and counting." ha probabilità: 7.186412122426388e-16
+
+Di seguito elenco la frase con maggiore probabilità secondo il modello Markoviano di ordine 1 del file  DiscorsiTrump.txt
+La frase: "He has been an incredible inspiration to so many people." ha probabilità: 5.316627537703595e-15
+
+Punto n.4 	 ESTRAZIONE DEI 15 NOMI PROPRI DI PERSONA PIU' FREQUENTI
+Di seguito elenco i primi 15 nomi propri di persona (PERSON) in ordine di frequenza del file DiscorsiBiden.txt
+Il 1 ° nome proprio di persona più frequente è "DonaldTrump"	 con frequenza 18
+Il 2 ° nome proprio di persona più frequente è "Trump"	 con frequenza 10
+Il 3 ° nome proprio di persona più frequente è "Look"	 con frequenza 6
+Il 4 ° nome proprio di persona più frequente è "Obama"	 con frequenza 4
+Il 5 ° nome proprio di persona più frequente è "Karen"	 con frequenza 4
+Il 6 ° nome proprio di persona più frequente è "Dan"	 con frequenza 4
+Il 7 ° nome proprio di persona più frequente è "Vivek"	 con frequenza 3
+Il 8 ° nome proprio di persona più frequente è "God"	 con frequenza 3
+Il 9 ° nome proprio di persona più frequente è "Tim"	 con frequenza 3
+Il 10 ° nome proprio di persona più frequente è "Barack"	 con frequenza 3
+Il 11 ° nome proprio di persona più frequente è "Don"	 con frequenza 3
+Il 12 ° nome proprio di persona più frequente è "Javier"	 con frequenza 2
+Il 13 ° nome proprio di persona più frequente è "Jeff"	 con frequenza 2
+Il 14 ° nome proprio di persona più frequente è "Deb"	 con frequenza 2
+Il 15 ° nome proprio di persona più frequente è "Michael"	 con frequenza 2
+
+Di seguito elenco i primi 15 nomi propri di persona (PERSON) in ordine di frequenza del file DiscorsiTrump.txt
+Il 1 ° nome proprio di persona più frequente è "Dan"	 con frequenza 31
+Il 2 ° nome proprio di persona più frequente è "Michigan"	 con frequenza 9
+Il 3 ° nome proprio di persona più frequente è "JoeBiden"	 con frequenza 9
+Il 4 ° nome proprio di persona più frequente è "Biden"	 con frequenza 8
+Il 5 ° nome proprio di persona più frequente è "Seema"	 con frequenza 7
+Il 6 ° nome proprio di persona più frequente è "Obamacare"	 con frequenza 7
+Il 7 ° nome proprio di persona più frequente è "Julia"	 con frequenza 5
+Il 8 ° nome proprio di persona più frequente è "Jim"	 con frequenza 4
+Il 9 ° nome proprio di persona più frequente è "Iowa"	 con frequenza 4
+Il 10 ° nome proprio di persona più frequente è "Alex"	 con frequenza 4
+Il 11 ° nome proprio di persona più frequente è "Bill"	 con frequenza 4
+Il 12 ° nome proprio di persona più frequente è "Sharon"	 con frequenza 4
+Il 13 ° nome proprio di persona più frequente è "Barron"	 con frequenza 4
+Il 14 ° nome proprio di persona più frequente è "DanGable"	 con frequenza 3
+Il 15 ° nome proprio di persona più frequente è "Chuck"	 con frequenza 3
+
+	 ESTRAZIONE DEI 15 NOMI PROPRI DI LUOGO PIU' FREQUENTI
+Di seguito elenco i primi 15 nomi propri di luogo (GPE) in ordine di frequenza del file DiscorsiBiden.txt
+Il 1 ° nome proprio di luogo più frequente è "America"	 con frequenza 38
+Il 2 ° nome proprio di luogo più frequente è "American"	 con frequenza 31
+Il 3 ° nome proprio di luogo più frequente è "UnitedStates"	 con frequenza 24
+Il 4 ° nome proprio di luogo più frequente è "Ohio"	 con frequenza 10
+Il 5 ° nome proprio di luogo più frequente è "China"	 con frequenza 6
+Il 6 ° nome proprio di luogo più frequente è "Americans"	 con frequenza 4
+Il 7 ° nome proprio di luogo più frequente è "Detroit"	 con frequenza 4
+Il 8 ° nome proprio di luogo più frequente è "Pennsylvania"	 con frequenza 3
+Il 9 ° nome proprio di luogo più frequente è "Cleveland"	 con frequenza 3
+Il 10 ° nome proprio di luogo più frequente è "Scranton"	 con frequenza 3
+Il 11 ° nome proprio di luogo più frequente è "Chief"	 con frequenza 3
+Il 12 ° nome proprio di luogo più frequente è "Cecilia"	 con frequenza 3
+Il 13 ° nome proprio di luogo più frequente è "U.S."	 con frequenza 2
+Il 14 ° nome proprio di luogo più frequente è "California"	 con frequenza 2
+Il 15 ° nome proprio di luogo più frequente è "Medicine"	 con frequenza 2
+
+Di seguito elenco i primi 15 nomi propri di luogo (GPE) in ordine di frequenza del file DiscorsiTrump.txt
+Il 1 ° nome proprio di luogo più frequente è "American"	 con frequenza 23
+Il 2 ° nome proprio di luogo più frequente è "China"	 con frequenza 22
+Il 3 ° nome proprio di luogo più frequente è "America"	 con frequenza 14
+Il 4 ° nome proprio di luogo più frequente è "UnitedStates"	 con frequenza 10
+Il 5 ° nome proprio di luogo più frequente è "Canada"	 con frequenza 10
+Il 6 ° nome proprio di luogo più frequente è "Pennsylvania"	 con frequenza 10
+Il 7 ° nome proprio di luogo più frequente è "Michigan"	 con frequenza 9
+Il 8 ° nome proprio di luogo più frequente è "NorthCarolina"	 con frequenza 7
+Il 9 ° nome proprio di luogo più frequente è "Iowa"	 con frequenza 5
+Il 10 ° nome proprio di luogo più frequente è "Fame"	 con frequenza 5
+Il 11 ° nome proprio di luogo più frequente è "NewYork"	 con frequenza 5
+Il 12 ° nome proprio di luogo più frequente è "Americans"	 con frequenza 4
+Il 13 ° nome proprio di luogo più frequente è "Obamacare"	 con frequenza 4
+Il 14 ° nome proprio di luogo più frequente è "Julia"	 con frequenza 4
+Il 15 ° nome proprio di luogo più frequente è "Florida"	 con frequenza 3
