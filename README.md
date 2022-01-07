@@ -1,0 +1,2 @@
+# linguisticacomputazionale202021
+Progetto di Linguistica Computazionale
