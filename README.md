@@ -1,5 +1,5 @@
 # LinguisticaComputazionale202021
-Progetto di Linguistica Computazionale - Anno 2020 - 21
+Progetto di Linguistica Computazionale - Anno 2020/21
 
 Professor Felice Dell'Orletta
 
